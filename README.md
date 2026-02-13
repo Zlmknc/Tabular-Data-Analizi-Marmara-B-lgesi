@@ -8,10 +8,10 @@ Veri aşırı gürültü, dengesizlik, boyutun laneti ve aşırı uyum risklerin
 Projede veri seti ile 
 - Deprem Risk Haritası
     * Projede Risk haritasının oluşturulmasında depremler nokta ve harita ile görselleştirilmiştir. Harita görseli için GeoPandas miniconda kurulumu yapılmıştır. (Kullanımı sadece harita içindir.)
-    miniconda indirildi .exe çalıştırıldı
-    anaconda prompt uygulaması üzerinden 
-    conda create -n ...(isim)
-    conda activate ....   (kodları ile bir base oluşturuldu.)
-    conda create -n .... python numpy pandas (kütüphaneler yüklendi)
+      miniconda indirildi .exe çalıştırıldı
+      anaconda prompt uygulaması üzerinden
+      conda create -n ...(isim)
+      conda activate ....   (kodları ile bir base oluşturuldu.)
+      conda create -n .... python numpy pandas (kütüphaneler yüklendi)
   
 - Deprem Kümele işlemleri yapılacaktır.
